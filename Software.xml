@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+   <Software>
+      <Order_Number>1</Order_Number>
+      <Operating_System>Windows 11 Professional</Operating_System>
+      <Hardware_drivers>Audio, Touchpad, WLAN, Bluetooth</Hardware_drivers>
+      <Application_Softwares>Microsoft Office, Visual Studio</Application_Softwares>
+      <Order_Number>2</Order_Number>
+      <Operating_System>Windows 10 Ultimate</Operating_System>
+      <Hardware_drivers>LAN, Bluetooth</Hardware_drivers>
+      <Application_Softwares>Microsoft Office, My SQL Server</Application_Softwares>       
+      <Order_Number>3</Order_Number>
+      <Operating_System>Windows 8 Pro</Operating_System>
+      <Hardware_drivers>Touchpad, Audio</Hardware_drivers>
+      <Application_Softwares>Microsoft Office 365, My Sql</Application_Softwares>  
+   </Software>
