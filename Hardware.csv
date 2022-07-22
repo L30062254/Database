@@ -1,0 +1,4 @@
+﻿Order_Number,RAM_Size,Hard_Disk_Size,Graphics_Card_Size,Processor
+1,8GB,512 GB,1 GB,Intel i5 
+2,16GB,1 TB,2 GB,Intel i7
+3,32GB,256 GB,3 GB,Intel i9

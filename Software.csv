@@ -1,0 +1,4 @@
+﻿Order_Number,Operating_System,Hardware_drivers,Application_Softwares
+1,Windows 11 Professional,"Audio, Touchpad, WLAN, Bluetooth","Microsoft Office, Visual Studio"
+2,Windows 10 Ultimate,"LAN, Bluetooth","Microsoft Office, My SQL Server"
+3,Windows 8 Pro,"Touchpad, Audio","Microsoft Office 365, My Sql"
