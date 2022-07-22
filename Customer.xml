@@ -1,17 +1,18 @@
 <?xml version="1.0"?>
    <Customer>
-      <Customer_ID>1</Phone_Number>
-      <Name>John</Phone_Number>
+      <Customer_ID>1</Customer_ID>
+      <Name>John</Name>
       <Phone_Number>2314568741</Phone_Number>
       <Address>H.No  8956, Bentonville, Littlerock, AR, Zipcode : 56822</Address>  
-   
+      <Cost>565.23</Cost>
       <Customer_ID>2</Phone_Number>
       <Name>Mat</Phone_Number>
       <Phone_Number>7895789467</Phone_Number>
       <Address>H.No  4234, Roundrock, Austin, TX, Zipcode : 12522</Address>
-
-      <Customer_ID>3</Phone_Number>
-      <Name>Jeff</Phone_Number>
+      <Cost>550.00/Cost>
+      <Customer_ID>3</Customer_ID>
+      <Name>Jeff</Name>
       <Phone_Number>5642158569</Phone_Number>
-      <Address>H.No  8956, Bentonville, Littlerock, AR, Zipcode : 56822</Address>   
+      <Address>H.No  8956, Bentonville, Littlerock, AR, Zipcode : 56822</Address>
+      <Cost>987.15/Cost>   
    </Customer>
